@@ -1,5 +1,16 @@
 public class MyFirstClass {
+    // psvm + tab
+    // main + tab
     public static void main(String[] args) {
-        System.out.println("This is my first class to be published on github");
+
+        //Start program here
+        System.out.println("Start");
+
+        //Logic
+        System.out.println("My first class");
+
+        //Zeilen verschieben
+        //STRG + Umschalt + Pfeil rauf/runter
     }
-}
+    }
+
