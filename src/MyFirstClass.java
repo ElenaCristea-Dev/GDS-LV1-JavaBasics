@@ -11,6 +11,11 @@ public class MyFirstClass {
 
         //Zeilen verschieben
         //STRG + Umschalt + Pfeil rauf/runter
+
+        //Ich bin ein Kommentar
+        System.out.println("Ende");
+
+        //Programmende
     }
     }
 
